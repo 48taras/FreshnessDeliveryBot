@@ -7,7 +7,7 @@ namespace FreshnessDeliveryBot
     {
         static void Main(string[] args)
         {
-            var freshnessBot = new FreshnessBot("6678746277:AAGlmWfg9Wwm7vjnPZWqfJtWEpzmnhksNIw");
+            var freshnessBot = new FreshnessBot("token");
         }
     }
 }
